@@ -1,0 +1,19 @@
+{
+"snake-speed": 16,
+"auto-window-scale": true,
+"window-x": 500,
+"window-y": 500,
+"window-title": "Snake",
+"game-over-delay": 2,
+
+"fruit-spawn": true,
+"snake-direction": "RIGHT",
+
+"score": 0,
+"fruit-score": 1,
+
+"background-color": [50, 153, 213],
+"text-fruit-color": [255, 255, 255],
+"game-over-color": [255, 255, 102],
+"snake-color": [0, 255, 0]
+}
